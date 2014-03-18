@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "jquery.hotkeys": "git://github.com/jeresig/jquery.hotkeys",
-    "jquery.bbq": "git://github.com/cowboy/jquery-bbq‎",
+    "jquery.bbq": "git://github.com/cowboy/jquery-bbq‎"
 
   }
 }
